@@ -1,0 +1,34 @@
+Steven:
+Besucher Nr. = Zähler einbauen
+Gästebuch
+Email-Formular
+Formular für Bücherverkauf
+
+' Ahnendaten aktualisieren und erneuern und auf Fehler prüfen (Alle!) 
+  eventuell Daten herausnehmen
+auf lebende achten!
+
+Datei in Eig Webs AE legen
+
+Fotos bearbeiten und heraussuchen - kleine und große
+
+# AKTUALISIEREN:  Textdatei AKtuel.txt datum erneuern und hochladen
+<a href=“hallo.html“ target=“_blank“>hallo</a> 	Link in neuem Fenster öffnen
+<body bgcolor=“#FFFFFF“ leftmargin=“100“ topmargin=“50“>	Leftmargin – Abstand zum linken Rand
+Topmargin - Abstand zum oberen Rand 
+
+	
+
+Der folgende Befehl muss in die Homepage eingebaut werden: 
+<img src="/lcgi/count.nlm?name_des_zaehlers"> 
+Ersetzen Sie Name des Zählers durch Ihre UserID. 
+Der Befehl kann an jeder beliebigen Stelle der Homepage eingesetzt werden. 
+Beispiel: 
+Diese Seite wurde  mal aufgerufen. 
+
+alternativ dazu lassen sich etwige kostenlose Counter-Services nutzen, die mitunter schönere Layouts anbieten ;-) 
+Mehr Infos dazu unter http://www.kostenlos.de
+ SIEGEL:
+<img src="siegel.jpg" BORDER=0></img>
+
+<img border="0" src="buttons/a_siegel.jpg" width="100" height="1 verändern in <img border="0" src="buttons/a_siegel.jpg" BORDER=0>width="100" height="1 ???
